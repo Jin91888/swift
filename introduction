@@ -1,0 +1,56 @@
+Swift 是一种通用的，多范式的编译编程语言，由Apple Inc.和开源社区开发，于2014年首次发布。
+Swift的开发是为了替代Apple早期的编程语言Objective-C,即Objective-C自1980年代初以来基本没有变化，缺乏现代语言特征。
+
+Designed by Chris Latter,Doug Gregor,John McCall,Ted Kremenek.......
+Developer:Apple Inc.and open-source contributors
+Stable release:5.6.1,/9 April 2022.24 days ago
+Typing discipline:static,strong,inferred
+
+how to create a web app:
+ we will learn about 
+ advantages of web applicatins
+ examples of web apps
+ what is not included in how to build a web app
+ development process
+ 
+ 
+In definition, native apps are software applications that are built for 
+a specific device platform using a specific programming language. 
+For instance, native iOS apps are developed using Objective-C or Swift, and native Android apps 
+developed using Java or Kotlin.
+
+定义：原生的APP是用特定的编程语言为一个特定的设备平台开发的软件应用程序。
+例如：原生的iOS应用程序是由Objective-C或者Swift开发的，原生的安卓APP由JAVA或者Kotlin开发的。
+
+一些原生应用程序举例：
+1.Pokemon Go
+2.The New York Times
+3.TechCrunch
+4.Printerest
+5.Facebook
+6.Linkdin
+7.Instagram
+8.Googlemaps
+
+What is A web applications?
+
+Before we discuss how to build a web app,wouldn't it be better to know what a web app is?
+
+
+A web applications is software developed with a specific set of technologies ,and it works over the internet.
+
+It is an application you use on your mobile,tablet,desktop,or laptop without downloading anything.
+
+
+HTML
+CSS
+Javascript
+CRUD
+用庞大的API生态系统来增强用户体验。
+WEB应用程序开发过程涉及使用客户端和服务器编程来创建统一平台。
+客户端和服务器端门户通过HTTPS请求相互通信。
+
+
+
+
+
